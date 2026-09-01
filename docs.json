@@ -33,12 +33,7 @@
         "label": "Support",
         "href": "mailto:support@syncplan.me"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
+    ]
   },
   "contextual": {
     "options": [
