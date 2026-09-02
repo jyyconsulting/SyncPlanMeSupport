@@ -17,7 +17,14 @@
       "untitled-page-2",
       {
         "group": "FAQ",
-        "pages": []
+        "pages": [
+          {
+            "group": "Account Questions",
+            "pages": [
+              "untitled-page-3"
+            ]
+          }
+        ]
       }
     ]
   },
