@@ -56,19 +56,11 @@
       }
     ]
   },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
-  },
   "appearance": {
     "strict": true
+  },
+  "contextual": {
+    "options": [],
+    "display": "header"
   }
 }
