@@ -13,11 +13,32 @@
   },
   "navigation": {
     "pages": [
+      "about",
+      "getting-started",
       {
-        "group": "Getting Started",
+        "group": "FAQ",
         "pages": [
-          "index",
-          "quickstart"
+          {
+            "group": "Account Questions",
+            "pages": [
+              "logging-in",
+              "change-email"
+            ]
+          },
+          {
+            "group": "Calendar, Events & Invites",
+            "pages": [
+              "invited-events",
+              "time-zones"
+            ]
+          },
+          {
+            "group": "Troubleshooting",
+            "pages": [
+              "nothing-happening",
+              "feature-limitations"
+            ]
+          }
         ]
       }
     ]
